@@ -3,6 +3,6 @@ print("I lied.")
 
 
 def helloWorld():
-    print("Goodbye.")
+    print("Goodby.")
 
 helloWorld()
