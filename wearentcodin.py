@@ -1,8 +1,8 @@
 # There's nothing here
-print("I lied.")
+print("I didnt lied. Silly Goose")
 
 
 def helloWorld():
-    print("Goodby.")
+    print("Morning Shrek 2")
 
 helloWorld()
